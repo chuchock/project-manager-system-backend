@@ -1,0 +1,19 @@
+{
+  "name": "project-manager-server",
+  "version": "1.0.0",
+  "description": "Web system for managing projects and tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuchock/project-manager-system-backend.git"
+  },
+  "author": "Jesus Montero Cuevas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuchock/project-manager-system-backend/issues"
+  },
+  "homepage": "https://github.com/chuchock/project-manager-system-backend#readme"
+}
